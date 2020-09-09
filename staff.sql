@@ -6,7 +6,7 @@ SELECT
 	USERS.first_name,
 	USERS.middle_name,
 	USERS.last_name,
-	NULL,
+	'PK-12',
 	USERS.EMAIL_ADDR,
 	NULL,
 	'MDR',
